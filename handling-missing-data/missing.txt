@@ -1,0 +1,6 @@
+NAN (not a number)
+None(for object data types)
+
+isnull()
+True - NAN is missing
+Flase - Present
